@@ -1,0 +1,33 @@
+testng listners how many types
+
+2.static vs intance variable use .with scenerio .
+
+3.abstration vs interface with implementation .and which one is bettr and when will we use .
+
+4.== and equals uses .(its program )
+
+5.stale elements.
+
+6.diff btw findelements and element.
+
+7.stale element exception in selenium .
+
+8.java 8 featues .
+
+9.encapsulation vs abstration .
+
+10.dataprovider and its use implementation .
+
+link:vpn4.electrolux-na.com
+id:Sadab.ali@electrolux.com
+passwrd:HCLTECH@012345
+
+ticket-342->missing from client side.
+ticket->343->closed.
+ticket->345->Quick start filter need to add in MCB.
+ticket->347->it is showing control goes to delay cook time programing screen.
+ticket->348->
+
+
+Git-https://github.com/mojlo/Automation1008.git
+username-covidTesting
